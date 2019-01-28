@@ -1,0 +1,12 @@
+1. Open up file at Annotation Package/viaAnnotate/via-1.0.6/via.html.
+2. Press "Load Images".
+3. In File Upload, select an individual or group of images.
+4. Select the zig zag lookin thing under "Region Shape".
+5. Shape out the nosema spores.
+6. When done with all spores, go to Region Attributes and create a column with the name Type.
+7. Copy and Paste "Nosema" into each row.
+8. Go to File Attributes and insert a column with count.
+9. Insert the number of nosema corresponding with the image (row index of last nosema).
+10. Shape and label pollen.
+11. Go to Annotation>Save as JSON
+12. Save it under the Annotation Package/JSONs file as teh tile of the image.
